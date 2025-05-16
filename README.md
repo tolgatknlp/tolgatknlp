@@ -28,7 +28,7 @@
   <section>
     <h2>İletişim</h2>
     <p>📞 0 5327368179</p>
-    <p>✉️ ii.tekinalp@widowslive.com</p>
+    <p>✉️ i.tekinalp@widowslive.com</p>
   </section>
 
   <footer>
